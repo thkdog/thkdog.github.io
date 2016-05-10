@@ -2,7 +2,7 @@
 title: A Thinking Dog
 email: thkdog@hotmail.com
 description: "A technical site for nodejs,javascript,asp.net,java,html5,css and all the leading stuff"
-baseurl: "" # the subpath of your site, e.g. /blog/
+# baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.thkdog.com" # the base hostname & protocol for your site
 github_username:  thkdog
 

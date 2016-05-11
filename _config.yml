@@ -1,6 +1,7 @@
 # Site settings
 title: A Thinking Dog
 email: thkdog@hotmail.com
+keywords: "webpack,nodejs,javascript,es6,es2015,html5,css,python,ruby"
 description: "A technical site for nodejs,javascript,asp.net,java,html5,css and all the leading stuff"
 # baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.thkdog.com" # the base hostname & protocol for your site

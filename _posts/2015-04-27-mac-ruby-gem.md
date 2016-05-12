@@ -9,10 +9,10 @@ categories: html5
 
 似乎是Mac OS 10.11.x 开始直接使用gem升级或者安装包 `gem install mygem` 或者 `gem update --system`，都会有下面的错误，sudo也不行：
 
-`
+```
 ERROR:  While executing gem ... (Gem::FilePermissionError)
 You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.
-`
+```
 
 这个问题导致无法装包，这是Mac OS的新限制，它使用的gem是/usr/bin/下面的，错误提示的目录位置系统禁止写入了。
 
